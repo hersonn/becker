@@ -1,3 +1,3 @@
 # becker
 
-![Diagram](images/Project.drawio.svg)
+![Diagram](images/Project.jpg)
